@@ -31,7 +31,7 @@ Resources:
 
 - Spring 2018
   - [Deep Feedforward Networks](http://www.deeplearningbook.org/contents/mlp.html): 
-     - [Notebook demo for logistic regression with Tensorflow](notebooks/Logistic regression with Tensorflow.ipynb)
+    - [Notebook demo for logistic regression with Tensorflow](notebooks/Logistic%20regression%20with%20Tensorflow.ipynb)
 
 - Summer 2018
   - [Convolutional Networks](http://www.deeplearningbook.org/contents/convnets.html)
